@@ -1,0 +1,11 @@
+.btn {
+  @apply bg-slate-800 text-white px-4 py-2 rounded-e-full hover:bg-slate-600 transition-all duration-300;
+}
+
+.input-box {
+  @apply mb-4 px-4 py-2 rounded-e-full bg-slate-200 border;
+}
+
+.here-btn {
+  @apply border-2 px-4 py-2 rounded-e-full hover:bg-slate-100 transition-all duration-300;
+}
